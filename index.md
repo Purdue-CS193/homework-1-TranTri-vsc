@@ -1,3 +1,11 @@
+# TRI TRAN's First CS193 Homework
+
+CS193 has only started 3 weeks back and I have yet to much of a conclusive opinion on the course. Here is what has been on my mind so far:
+
+- The instructors are doing what they are supposed to do.
+- The vacant first PSO class gave me and other students lots of time to contemplate on our choices in life (the notice should have been out sooner).
+- Not a lot of work for 1 credit and you get to learn tools and techniques that would come into use in the future (being introduced to GitHub on the third week is an awesome opportunity for me).
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -36,4 +44,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-- It does work.
+- It just works.
